@@ -9,6 +9,9 @@ Icon?
 .Trashes
 .DS_Store
 ._*
+.fseventsd
+.TemporaryItems
+.apdisk
 
 # Python
 __pycache__/
@@ -49,6 +52,13 @@ vendor/
 *.sublime-project
 *.sublime-workspace
 *.code-workspace
+
+# IntelliJ IDEA and PyCharm
+.idea/
+*.iml
+*.iws
+.idea/
+.idea/*
 
 # Logs and Temporary Files
 *.log
