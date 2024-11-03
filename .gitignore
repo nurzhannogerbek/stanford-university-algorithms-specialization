@@ -2,12 +2,9 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# macOS-specific files
 Icon?
 .Spotlight-V100
 .Trashes
-.DS_Store
 ._*
 .fseventsd
 .TemporaryItems
@@ -52,12 +49,8 @@ vendor/
 *.sublime-project
 *.sublime-workspace
 *.code-workspace
-
-# IntelliJ IDEA and PyCharm
-.idea/
 *.iml
 *.iws
-.idea/
 .idea/*
 
 # Logs and Temporary Files
