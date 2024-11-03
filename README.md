@@ -35,14 +35,14 @@ stanford-university-algorithms-specialization/
 
 ## Quick Access
 
-### Module 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+### Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 
 Week 1:
 
-* [Problem Set (Questions)](module%201/week%201/problem%20set%201/questions.png)
-* [Problem Set (Answers)](module%201/week%201/problem%20set%201/answers.png)
-* [Programming Assignment (Task)](module%201/week%201/programming%20assignment%201/task.png)
-* [Programming Assignment (Python)](module%201/week%201/programming%20assignment%201/karatsuba.py)
-* [Programming Assignment (Golang)](module%201/week%201/programming%20assignment%201/karatsuba.go)
-* [Merge Sort (Python)](module%201/week%201/examples/mergesort.py)
-* [Merge Sort (Golang)](module%201/week%201/examples/mergesort.go)
+* [Problem Set (Questions)](course_1/week_1/problem_set_1/questions.png)
+* [Problem Set (Answers)](course_1/week_1/problem_set_1/answers.png)
+* [Programming Assignment (Task)](course_1/week_1/programming_assignment_1/task.png)
+* [Programming Assignment (Python)](course_1/week_1/programming_assignment_1/karatsuba.py)
+* [Programming Assignment (Golang)](course_1/week_1/programming_assignment_1/karatsuba.go)
+* [Merge Sort (Python)](course_1/week_1/examples/mergesort.py)
+* [Merge Sort (Golang)](course_1/week_1/examples/mergesort.go)
