@@ -17,8 +17,8 @@ The repository is organized as follows:
 
 ```
 stanford-university-algorithms-specialization/
-├── module_1/
-│   ├── week_1/
+├── course_1/
+│   ├── module_1/
 │   │   ├── problem_set_1/
 │   │   │   ├── answers.png
 │   │   │   ├── questions.png
@@ -39,10 +39,10 @@ stanford-university-algorithms-specialization/
 
 Week 1:
 
-* [Problem Set (Questions)](course_1/week_1/problem_set_1/questions.png)
-* [Problem Set (Answers)](course_1/week_1/problem_set_1/answers.png)
-* [Programming Assignment (Task)](course_1/week_1/programming_assignment_1/task.png)
-* [Programming Assignment (Python)](course_1/week_1/programming_assignment_1/karatsuba.py)
-* [Programming Assignment (Golang)](course_1/week_1/programming_assignment_1/karatsuba.go)
-* [Merge Sort (Python)](course_1/week_1/examples/mergesort.py)
-* [Merge Sort (Golang)](course_1/week_1/examples/mergesort.go)
+* [Problem Set (Questions)](course_1/module_1/problem_set_1/questions.png)
+* [Problem Set (Answers)](course_1/module_1/problem_set_1/answers.png)
+* [Programming Assignment (Task)](course_1/module_1/programming_assignment_1/task.png)
+* [Programming Assignment (Python)](course_1/module_1/programming_assignment_1/karatsuba.py)
+* [Programming Assignment (Golang)](course_1/module_1/programming_assignment_1/karatsuba.go)
+* [Merge Sort (Python)](course_1/module_1/examples/mergesort.py)
+* [Merge Sort (Golang)](course_1/module_1/examples/mergesort.go)
