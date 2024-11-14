@@ -43,6 +43,18 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── closest_pair.py
 │   │   │   ├── strassen_matrix_multiplier.go
 │   │   │   ├── strassen_matrix_multiplier.py
+│   ├── module_3/
+│   │   ├── problem_set_3/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── programming_assignment_3/
+│   │   │   ├── QuickSort.txt
+│   │   │   ├── solution.go
+│   │   │   ├── solution.py
+│   │   │   ├── task.png
+│   │   ├── examples/
+│   │   │   ├── quick_sort.go
+│   │   │   ├── quick_sort.py
 ├── LICENSE
 └── README.md
 ```
@@ -72,3 +84,13 @@ Module 2:
 * [Strassen's Sub-cubic Matrix Multiplication Algorithm (Golang)](course_1/module_2/examples/strassen_matrix_multiplier.go)
 * [Algorithm for Closest Pair (Python)](course_1/module_2/examples/closest_pair.py)
 * [Algorithm for Closest Pair (Golang)](course_1/module_2/examples/closest_pair.go)
+
+Module 3:
+
+* [Problem Set (Questions)](course_1/module_3/problem_set_3/questions.png)
+* [Problem Set (Answers)](course_1/module_3/problem_set_3/answers.png)
+* [Programming Assignment (Task)](course_1/module_3/programming_assignment_3/task.png)
+* [Programming Assignment (Python)](course_1/module_3/programming_assignment_3/solution.py)
+* [Programming Assignment (Golang)](course_1/module_3/programming_assignment_3/solution.go)
+* [Quick Sort (Python)](course_1/module_3/examples/quick_sort.py)
+* [Quick Sort (Golang)](course_1/module_3/examples/quick_sort.go)
