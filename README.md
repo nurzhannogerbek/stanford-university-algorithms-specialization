@@ -55,6 +55,25 @@ stanford-university-algorithms-specialization/
 │   │   ├── examples/
 │   │   │   ├── quick_sort.go
 │   │   │   ├── quick_sort.py
+│   ├── module_4/
+│   │   ├── problem_set_4/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── programming_assignment_4/
+│   │   │   ├── kargerMinCut.txt
+│   │   │   ├── solution.go
+│   │   │   ├── solution.py
+│   │   │   ├── task.png
+│   │   ├── final_exam/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── examples/
+│   │   │   ├── deterministic_selection.go
+│   │   │   ├── deterministic_selection.py
+│   │   │   ├── randomized_contraction.go
+│   │   │   ├── randomized_contraction.py
+│   │   │   ├── randomized_selection.go
+│   │   │   ├── randomized_selection.py
 ├── LICENSE
 └── README.md
 ```
@@ -94,3 +113,19 @@ Module 3:
 * [Programming Assignment (Golang)](course_1/module_3/programming_assignment_3/solution.go)
 * [Quick Sort (Python)](course_1/module_3/examples/quick_sort.py)
 * [Quick Sort (Golang)](course_1/module_3/examples/quick_sort.go)
+
+Module 4:
+
+* [Problem Set (Questions)](course_1/module_4/problem_set_4/questions.png)
+* [Problem Set (Answers)](course_1/module_4/problem_set_4/answers.png)
+* [Programming Assignment (Task)](course_1/module_4/programming_assignment_4/task.png)
+* [Programming Assignment (Python)](course_1/module_4/programming_assignment_4/solution.py)
+* [Programming Assignment (Golang)](course_1/module_4/programming_assignment_4/solution.go)
+* [Final Exam (Questions)](course_1/module_4/final_exam/questions.png)
+* [Final Exam (Answers)](course_1/module_4/final_exam/answers.png)
+* [Randomized Selection Algorithm (Python)](course_1/module_4/examples/randomized_selection.py)
+* [Randomized Selection Algorithm (Golang)](course_1/module_4/examples/randomized_selection.go)
+* [Deterministic Selection Algorithm (Python)](course_1/module_4/examples/deterministic_selection.py)
+* [Deterministic Selection Algorithm (Golang)](course_1/module_4/examples/deterministic_selection.go)
+* [Randomized Contraction Algorithm (Python)](course_1/module_4/examples/randomized_contraction.py)
+* [Randomized Contraction Algorithm (Golang)](course_1/module_4/examples/randomized_contraction.go)
