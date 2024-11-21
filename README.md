@@ -129,3 +129,11 @@ Module 4:
 * [Deterministic Selection Algorithm (Golang)](course_1/module_4/examples/deterministic_selection.go)
 * [Randomized Contraction Algorithm (Python)](course_1/module_4/examples/randomized_contraction.py)
 * [Randomized Contraction Algorithm (Golang)](course_1/module_4/examples/randomized_contraction.go)
+
+### Course 2: Graph Search, Shortest Paths, and Data Structures
+
+* [Problem Set (Questions)](course_2/module_1/problem_set_1/questions.png)
+* [Problem Set (Answers)](course_2/module_1/problem_set_1/answers.png)
+* [Programming Assignment (Task)](course_2/module_1/programming_assignment_1/task.png)
+* [Programming Assignment (Python)](course_2/module_1/programming_assignment_1/solution.py)
+* [Programming Assignment (Golang)](course_2/module_1/programming_assignment_1/solution.go)
