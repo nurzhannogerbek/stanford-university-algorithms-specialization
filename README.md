@@ -132,8 +132,18 @@ Module 4:
 
 ### Course 2: Graph Search, Shortest Paths, and Data Structures
 
+Module 1:
+
 * [Problem Set (Questions)](course_2/module_1/problem_set_1/questions.png)
 * [Problem Set (Answers)](course_2/module_1/problem_set_1/answers.png)
 * [Programming Assignment (Task)](course_2/module_1/programming_assignment_1/task.png)
 * [Programming Assignment (Python)](course_2/module_1/programming_assignment_1/solution.py)
 * [Programming Assignment (Golang)](course_2/module_1/programming_assignment_1/solution.go)
+
+Module 2:
+
+* [Problem Set (Questions)](course_2/module_2/problem_set_2/questions.png)
+* [Problem Set (Answers)](course_2/module_2/problem_set_2/answers.png)
+* [Programming Assignment (Task)](course_2/module_2/programming_assignment_2/task.png)
+* [Programming Assignment (Python)](course_2/module_2/programming_assignment_2/solution.py)
+* [Programming Assignment (Golang)](course_2/module_2/programming_assignment_2/solution.go)
