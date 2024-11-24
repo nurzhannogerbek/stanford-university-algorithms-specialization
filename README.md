@@ -13,9 +13,10 @@ The specialization consists of four courses:
 
 ## Project Structure
 
-The repository is organized as follows:
+<details>
+<summary>Click to expand/collapse the project structure</summary>
 
-```
+```plaintext
 stanford-university-algorithms-specialization/
 ├── course_1/
 │   ├── module_1/
@@ -74,9 +75,29 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── randomized_contraction.py
 │   │   │   ├── randomized_selection.go
 │   │   │   ├── randomized_selection.py
+├── course_2/
+│   ├── module_1/
+│   │   ├── problem_set_1/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── programming_assignment_1/
+│   │   │   ├── scc.go
+│   │   │   ├── scc.py
+│   │   │   ├── SCC.txt
+│   │   │   ├── solution.go
+│   │   │   ├── solution.py
+│   │   │   ├── task.png
+│   │   ├── examples/
+│   │   │   ├── bfs.go
+│   │   │   ├── bfs.py
+│   │   │   ├── dfs.go
+│   │   │   ├── dfs.py
+│   │   │   ├── topological_sort.go
+│   │   │   ├── topological_sort.py
 ├── LICENSE
 └── README.md
 ```
+</details>
 
 ## Quick Access
 
@@ -139,6 +160,12 @@ Module 1:
 * [Programming Assignment (Task)](course_2/module_1/programming_assignment_1/task.png)
 * [Programming Assignment (Python)](course_2/module_1/programming_assignment_1/solution.py)
 * [Programming Assignment (Golang)](course_2/module_1/programming_assignment_1/solution.go)
+* [Breadth-First Search (BFS) (Python)](course_2/module_1/examples/bfs.py)
+* [Breadth-First Search (BFS) (Golang)](course_2/module_1/examples/bfs.go)
+* [Depth-First Search (DFS) (Python)](course_2/module_1/examples/dfs.py)
+* [Depth-First Search (DFS) (Golang)](course_2/module_1/examples/dfs.go)
+* [Topological_Sort (Python)](course_2/module_1/examples/topological_sort.py)
+* [Topological_Sort (Golang)](course_2/module_1/examples/topological_sort.py)
 
 Module 2:
 
