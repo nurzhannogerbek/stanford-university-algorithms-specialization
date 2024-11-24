@@ -106,6 +106,15 @@ stanford-university-algorithms-specialization/
 │   │   ├── examples/
 │   │   │   ├── dijkstra.go
 │   │   │   ├── dijkstra.py
+│   ├── module_3/
+│   │   ├── problem_set_3/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── programming_assignment_3/
+│   │   │   ├── Median.txt
+│   │   │   ├── solution.go
+│   │   │   ├── solution.py
+│   │   │   ├── task.png
 ├── LICENSE
 └── README.md
 ```
@@ -188,3 +197,11 @@ Module 2:
 * [Programming Assignment (Golang)](course_2/module_2/programming_assignment_2/solution.go)
 * [Dijkstra's Algorithm (Python)](course_2/module_2/examples/dijkstra.py)
 * [Dijkstra's Algorithm (Golang)](course_2/module_2/examples/dijkstra.go)
+
+Module 3:
+
+* [Problem Set (Questions)](course_2/module_3/problem_set_3/questions.png)
+* [Problem Set (Answers)](course_2/module_3/problem_set_3/answers.png)
+* [Programming Assignment (Task)](course_2/module_3/programming_assignment_3/task.png)
+* [Programming Assignment (Python)](course_2/module_3/programming_assignment_3/solution.py)
+* [Programming Assignment (Golang)](course_2/module_3/programming_assignment_3/solution.go)
