@@ -94,6 +94,18 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── dfs.py
 │   │   │   ├── topological_sort.go
 │   │   │   ├── topological_sort.py
+│   ├── module_2/
+│   │   ├── problem_set_2/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── programming_assignment_2/
+│   │   │   ├── dijkstraData.txt
+│   │   │   ├── solution.go
+│   │   │   ├── solution.py
+│   │   │   ├── task.png
+│   │   ├── examples/
+│   │   │   ├── dijkstra.go
+│   │   │   ├── dijkstra.py
 ├── LICENSE
 └── README.md
 ```
@@ -174,3 +186,5 @@ Module 2:
 * [Programming Assignment (Task)](course_2/module_2/programming_assignment_2/task.png)
 * [Programming Assignment (Python)](course_2/module_2/programming_assignment_2/solution.py)
 * [Programming Assignment (Golang)](course_2/module_2/programming_assignment_2/solution.go)
+* [Dijkstra's Algorithm (Python)](course_2/module_2/examples/dijkstra.py)
+* [Dijkstra's Algorithm (Golang)](course_2/module_2/examples/dijkstra.go)
