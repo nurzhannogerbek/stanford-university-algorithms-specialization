@@ -121,6 +121,17 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── red_black_tree.go
 │   │   │   ├── red_black_tree.py
 │   ├── module_4/
+│   │   ├── problem_set_4/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── programming_assignment_4/
+│   │   │   ├── 2sum.txt
+│   │   │   ├── solution.go
+│   │   │   ├── solution.py
+│   │   │   ├── task.png
+│   │   ├── final_exam/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
 │   │   ├── examples/
 │   │   │   ├── bloom_filters.go
 │   │   │   ├── bloom_filters.py
@@ -223,6 +234,13 @@ Module 3:
 
 Module 4:
 
+* [Problem Set (Questions)](course_2/module_4/problem_set_4/questions.png)
+* [Problem Set (Answers)](course_2/module_4/problem_set_4/answers.png)
+* [Programming Assignment (Task)](course_2/module_4/programming_assignment_4/task.png)
+* [Programming Assignment (Python)](course_2/module_4/programming_assignment_4/solution.py)
+* [Programming Assignment (Golang)](course_2/module_4/programming_assignment_4/solution.go)
+* [Final Exam (Questions)](course_2/module_4/final_exam/questions.png)
+* [Final Exam (Answers)](course_2/module_4/final_exam/answers.png)
 * [Universal Hashing (Python)](course_2/module_4/examples/universal_hashing.py)
 * [Universal Hashing (Golang)](course_2/module_4/examples/universal_hashing.go)
 * [Bloom Filters (Python)](course_2/module_4/examples/bloom_filters.py)
