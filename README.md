@@ -120,6 +120,12 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── binary_search_tree.py
 │   │   │   ├── red_black_tree.go
 │   │   │   ├── red_black_tree.py
+│   ├── module_4/
+│   │   ├── examples/
+│   │   │   ├── bloom_filters.go
+│   │   │   ├── bloom_filters.py
+│   │   │   ├── universal_hashing.go
+│   │   │   ├── universal_hashing.py
 ├── LICENSE
 └── README.md
 ```
@@ -214,3 +220,10 @@ Module 3:
 * [Binary Search Tree (Golang)](course_2/module_3/examples/binary_search_tree.go)
 * [Red-Black Tree (Python)](course_2/module_3/examples/red_black_tree.py)
 * [Red-Black Tree (Golang)](course_2/module_3/examples/red_black_tree.go)
+
+Module 4:
+
+* [Universal Hashing (Python)](course_2/module_4/examples/universal_hashing.py)
+* [Universal Hashing (Golang)](course_2/module_4/examples/universal_hashing.go)
+* [Bloom Filters (Python)](course_2/module_4/examples/bloom_filters.py)
+* [Bloom Filters (Golang)](course_2/module_4/examples/bloom_filters.go)
