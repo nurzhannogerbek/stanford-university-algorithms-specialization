@@ -115,6 +115,11 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── solution.go
 │   │   │   ├── solution.py
 │   │   │   ├── task.png
+│   │   ├── examples/
+│   │   │   ├── binary_search_tree.go
+│   │   │   ├── binary_search_tree.py
+│   │   │   ├── red_black_tree.go
+│   │   │   ├── red_black_tree.py
 ├── LICENSE
 └── README.md
 ```
@@ -185,8 +190,8 @@ Module 1:
 * [Breadth-First Search (BFS) (Golang)](course_2/module_1/examples/bfs.go)
 * [Depth-First Search (DFS) (Python)](course_2/module_1/examples/dfs.py)
 * [Depth-First Search (DFS) (Golang)](course_2/module_1/examples/dfs.go)
-* [Topological_Sort (Python)](course_2/module_1/examples/topological_sort.py)
-* [Topological_Sort (Golang)](course_2/module_1/examples/topological_sort.py)
+* [Topological Sort (Python)](course_2/module_1/examples/topological_sort.py)
+* [Topological Sort (Golang)](course_2/module_1/examples/topological_sort.go)
 
 Module 2:
 
@@ -205,3 +210,7 @@ Module 3:
 * [Programming Assignment (Task)](course_2/module_3/programming_assignment_3/task.png)
 * [Programming Assignment (Python)](course_2/module_3/programming_assignment_3/solution.py)
 * [Programming Assignment (Golang)](course_2/module_3/programming_assignment_3/solution.go)
+* [Binary Search Tree (Python)](course_2/module_3/examples/binary_search_tree.py)
+* [Binary Search Tree (Golang)](course_2/module_3/examples/binary_search_tree.go)
+* [Red-Black Tree (Python)](course_2/module_3/examples/red_black_tree.py)
+* [Red-Black Tree (Golang)](course_2/module_3/examples/red_black_tree.go)
