@@ -137,6 +137,26 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── bloom_filters.py
 │   │   │   ├── universal_hashing.go
 │   │   │   ├── universal_hashing.py
+├── course_3/
+│   ├── module_1/
+│   │   ├── problem_set_1/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── programming_assignment_1/
+│   │   │   ├── solution_1.go
+│   │   │   ├── solution_1.py
+│   │   │   ├── solution_2.go
+│   │   │   ├── solution_2.py
+│   │   │   ├── solution_3.go
+│   │   │   ├── solution_3.py
+│   │   │   ├── edges.txt
+│   │   │   ├── jobs.txt
+│   │   │   ├── tasks.png
+│   │   ├── examples/
+│   │   │   ├── job_scheduler.go
+│   │   │   ├── job_scheduler.py
+│   │   │   ├── prim_mst.go
+│   │   │   ├── prim_mst.py
 ├── LICENSE
 └── README.md
 ```
@@ -245,3 +265,21 @@ Module 4:
 * [Universal Hashing (Golang)](course_2/module_4/examples/universal_hashing.go)
 * [Bloom Filters (Python)](course_2/module_4/examples/bloom_filters.py)
 * [Bloom Filters (Golang)](course_2/module_4/examples/bloom_filters.go)
+
+### Course 3: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+
+Module 1:
+
+* [Problem Set (Questions)](course_3/module_1/problem_set_1/questions.png)
+* [Problem Set (Answers)](course_3/module_1/problem_set_1/answers.png)
+* [Programming Assignment Tasks](course_3/module_1/programming_assignment_1/tasks.png)
+* [Programming Assignment 1 (Python)](course_3/module_1/programming_assignment_1/solution_1.py)
+* [Programming Assignment 1 (Golang)](course_3/module_1/programming_assignment_1/solution_1.go)
+* [Programming Assignment 2 (Python)](course_3/module_1/programming_assignment_1/solution_2.py)
+* [Programming Assignment 2 (Golang)](course_3/module_1/programming_assignment_1/solution_2.go)
+* [Programming Assignment 3 (Python)](course_3/module_1/programming_assignment_1/solution_3.py)
+* [Programming Assignment 3 (Golang)](course_3/module_1/programming_assignment_1/solution_3.go)
+* [Weighted Job Scheduling Application with Greedy Algorithm (Python)](course_3/module_1/examples/job_scheduler.py)
+* [Weighted Job Scheduling Application with Greedy Algorithm (Golang)](course_3/module_1/examples/job_scheduler.py)
+* [Prim's Minimum Spanning Tree (MST) Algorithm (Python)](course_3/module_1/examples/prim_mst.py)
+* [Prim's Minimum Spanning Tree (MST) Algorithm (Golang)](course_3/module_1/examples/prim_mst.go)
