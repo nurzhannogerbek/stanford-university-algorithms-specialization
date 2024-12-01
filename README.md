@@ -164,6 +164,13 @@ Module 3:
 * [Weighted Independent Set (WIS) (Python)](course_3/module_3/examples/wis.py)
 * [Weighted Independent Set (WIS) (Golang)](course_3/module_3/examples/wis.go)
 
+Module 4:
+
+* [Knapsack Problem (Python)](course_3/module_4/examples/knapsack.py)
+* [Knapsack Problem (Golang)](course_3/module_4/examples/knapsack.go)
+* [Optimal Binary Search Tree (Python)](course_3/module_4/examples/optimal_binary_search_tree.py)
+* [Optimal Binary Search Tree (Golang)](course_3/module_4/examples/optimal_binary_search_tree.go)
+
 ## Project Structure
 
 ```
@@ -345,6 +352,12 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── huffman.py
 │   │   │   ├── wis.go
 │   │   │   ├── wis.py
+│   ├── module_4/
+│   │   ├── examples/
+│   │   │   ├── knapsack.go
+│   │   │   ├── knapsack.py
+│   │   │   ├── optimal_binary_search_tree.go
+│   │   │   ├── optimal_binary_search_tree.py
 ├── LICENSE
 └── README.md
 ```
