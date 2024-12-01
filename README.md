@@ -166,6 +166,15 @@ Module 3:
 
 Module 4:
 
+* [Problem Set (Questions)](course_3/module_4/problem_set_4/questions.png)
+* [Problem Set (Answers)](course_3/module_4/problem_set_4/answers.png)
+* [Programming Assignment Tasks](course_3/module_4/programming_assignment_4/tasks.png)
+* [Programming Assignment 1 (Python)](course_3/module_4/programming_assignment_4/solution_1.py)
+* [Programming Assignment 1 (Golang)](course_3/module_4/programming_assignment_4/solution_1.go)
+* [Programming Assignment 2 (Python)](course_3/module_4/programming_assignment_4/solution_2.py)
+* [Programming Assignment 2 (Golang)](course_3/module_4/programming_assignment_4/solution_2.go)
+* [Final Exam (Questions)](course_3/module_4/final_exam/questions.png)
+* [Final Exam (Answers)](course_3/module_4/final_exam/answers.png)
 * [Knapsack Problem (Python)](course_3/module_4/examples/knapsack.py)
 * [Knapsack Problem (Golang)](course_3/module_4/examples/knapsack.go)
 * [Optimal Binary Search Tree (Python)](course_3/module_4/examples/optimal_binary_search_tree.py)
@@ -353,6 +362,20 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── wis.go
 │   │   │   ├── wis.py
 │   ├── module_4/
+│   │   ├── problem_set_4/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── programming_assignment_4/
+│   │   │   ├── knapsack1.txt
+│   │   │   ├── knapsack_big.txt
+│   │   │   ├── solution_1.go
+│   │   │   ├── solution_1.py
+│   │   │   ├── solution_2.go
+│   │   │   ├── solution_2.py
+│   │   │   ├── tasks.png
+│   │   ├── final_exam/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
 │   │   ├── examples/
 │   │   │   ├── knapsack.go
 │   │   │   ├── knapsack.py
