@@ -150,6 +150,20 @@ Module 2:
 * [Union Find (Python)](course_3/module_2/examples/union_find.py)
 * [Union Find (Golang)](course_3/module_2/examples/union_find.go)
 
+Module 3:
+
+* [Problem Set (Questions)](course_3/module_3/problem_set_3/questions.png)
+* [Problem Set (Answers)](course_3/module_3/problem_set_3/answers.png)
+* [Programming Assignment Tasks](course_3/module_3/programming_assignment_3/tasks.png)
+* [Programming Assignment 1 & 2 (Python)](course_3/module_3/programming_assignment_3/solution_1&2.py)
+* [Programming Assignment 1 &2 (Golang)](course_3/module_3/programming_assignment_3/solution_1&2.go)
+* [Programming Assignment 3 (Python)](course_3/module_3/programming_assignment_3/solution_3.py)
+* [Programming Assignment 3 (Golang)](course_3/module_3/programming_assignment_3/solution_3.go)
+* [Huffman Coding (Python)](course_3/module_3/examples/huffman.py)
+* [Huffman Coding (Golang)](course_3/module_3/examples/huffman.go)
+* [Weighted Independent Set (WIS) (Python)](course_3/module_3/examples/wis.py)
+* [Weighted Independent Set (WIS) (Golang)](course_3/module_3/examples/wis.go)
+
 ## Project Structure
 
 ```
@@ -306,7 +320,7 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── solution_1.py
 │   │   │   ├── solution_2.go
 │   │   │   ├── solution_1.py
-│   │   │   ├── tasks.py
+│   │   │   ├── tasks.png
 │   │   ├── examples/
 │   │   │   ├── clustering.go
 │   │   │   ├── clustering.py
@@ -314,6 +328,23 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── kruskal_mst.py
 │   │   │   ├── union_find.py
 │   │   │   ├── union_find.py
+│   ├── module_3/
+│   │   ├── problem_set_3/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── programming_assignment_3/
+│   │   │   ├── huffman.txt
+│   │   │   ├── mwis.txt
+│   │   │   ├── solution_1&2.go
+│   │   │   ├── solution_1&2.py
+│   │   │   ├── solution_3.go
+│   │   │   ├── solution_3.py
+│   │   │   ├── tasks.png
+│   │   ├── examples/
+│   │   │   ├── huffman.go
+│   │   │   ├── huffman.py
+│   │   │   ├── wis.go
+│   │   │   ├── wis.py
 ├── LICENSE
 └── README.md
 ```
