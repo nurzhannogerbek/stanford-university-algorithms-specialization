@@ -134,6 +134,14 @@ Module 1:
 * [Prim's Minimum Spanning Tree (MST) Algorithm (Python)](course_3/module_1/examples/prim_mst.py)
 * [Prim's Minimum Spanning Tree (MST) Algorithm (Golang)](course_3/module_1/examples/prim_mst.go)
 
+Module 2:
+
+* [Kruskal's MST Algorithm (Python)](course_3/module_2/examples/kruskal_mst.py)
+* [Kruskal's MST Algorithm (Golang)](course_3/module_2/examples/kruskal_mst.go)
+* [Clustering Algorithm (Python)](course_3/module_2/examples/clustering.py)
+* [Clustering Algorithm (Golang)](course_3/module_2/examples/clustering.go)
+* [Union Find (Python)](course_3/module_2/examples/union_find.py)
+* [Union Find (Golang)](course_3/module_2/examples/union_find.go)
 
 ## Project Structure
 
@@ -278,6 +286,14 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── job_scheduler.py
 │   │   │   ├── prim_mst.go
 │   │   │   ├── prim_mst.py
+│   ├── module_2/
+│   │   ├── examples/
+│   │   │   ├── clustering.go
+│   │   │   ├── clustering.py
+│   │   │   ├── kruskal_mst.go
+│   │   │   ├── kruskal_mst.py
+│   │   │   ├── union_find.py
+│   │   │   ├── union_find.py
 ├── LICENSE
 └── README.md
 ```
