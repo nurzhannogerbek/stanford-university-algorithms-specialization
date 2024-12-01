@@ -136,6 +136,13 @@ Module 1:
 
 Module 2:
 
+* [Problem Set (Questions)](course_3/module_2/problem_set_2/questions.png)
+* [Problem Set (Answers)](course_3/module_2/problem_set_2/answers.png)
+* [Programming Assignment Tasks](course_3/module_2/programming_assignment_2/tasks.png)
+* [Programming Assignment 1 (Python)](course_3/module_2/programming_assignment_2/solution_1.py)
+* [Programming Assignment 1 (Golang)](course_3/module_2/programming_assignment_2/solution_1.go)
+* [Programming Assignment 2 (Python)](course_3/module_2/programming_assignment_2/solution_2.py)
+* [Programming Assignment 2 (Golang)](course_3/module_2/programming_assignment_2/solution_2.go)
 * [Kruskal's MST Algorithm (Python)](course_3/module_2/examples/kruskal_mst.py)
 * [Kruskal's MST Algorithm (Golang)](course_3/module_2/examples/kruskal_mst.go)
 * [Clustering Algorithm (Python)](course_3/module_2/examples/clustering.py)
@@ -287,6 +294,19 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── prim_mst.go
 │   │   │   ├── prim_mst.py
 │   ├── module_2/
+│   │   ├── problem_set_2/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── programming_assignment_2/
+│   │   │   ├── clustering1.txt
+│   │   │   ├── clustering_big.go
+│   │   │   ├── clustering_big.py
+│   │   │   ├── clustering_big.txt
+│   │   │   ├── solution_1.go
+│   │   │   ├── solution_1.py
+│   │   │   ├── solution_2.go
+│   │   │   ├── solution_1.py
+│   │   │   ├── tasks.py
 │   │   ├── examples/
 │   │   │   ├── clustering.go
 │   │   │   ├── clustering.py
