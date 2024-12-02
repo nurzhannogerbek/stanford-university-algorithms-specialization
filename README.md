@@ -180,6 +180,17 @@ Module 4:
 * [Optimal Binary Search Tree (Python)](course_3/module_4/examples/optimal_binary_search_tree.py)
 * [Optimal Binary Search Tree (Golang)](course_3/module_4/examples/optimal_binary_search_tree.go)
 
+### Course 4: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+
+Module 1:
+
+* [The Bellman-Ford Algorithm (Python)](course_4/module_1/examples/bellman_ford.py)
+* [The Bellman-Ford Algorithm (Golang)](course_4/module_1/examples/bellman_ford.go)
+* [The Floyd-Warshall Algorithm (Python)](course_4/module_1/examples/floyd_warshall.py)
+* [The Floyd-Warshall Algorithm (Golang)](course_4/module_1/examples/floyd_warshall.go)
+* [Johnson's Algorithm (Python)](course_4/module_1/examples/johnson.py)
+* [Johnson's Algorithm (Golang)](course_4/module_1/examples/johnson.go)
+
 ## Project Structure
 
 ```
@@ -381,6 +392,15 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── knapsack.py
 │   │   │   ├── optimal_binary_search_tree.go
 │   │   │   ├── optimal_binary_search_tree.py
+├── course_4/
+│   ├── module_1/
+│   │   ├── examples/
+│   │   │   ├── bellman_ford.go
+│   │   │   ├── bellman_ford.py
+│   │   │   ├── floyd_warshall.go
+│   │   │   ├── floyd_warshall.py
+│   │   │   ├── johnson.go
+│   │   │   ├── johnson.py
 ├── LICENSE
 └── README.md
 ```
