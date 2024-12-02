@@ -184,6 +184,10 @@ Module 4:
 
 Module 1:
 
+* [Problem Set (Questions & Answers)](course_4/module_1/problem_set_1/questions_answers.png)
+* [Programming Assignment Task](course_4/module_1/programming_assignment_1/task.png)
+* [Programming Assignment (Python)](course_4/module_1/programming_assignment_1/solution.py)
+* [Programming Assignment (Golang)](course_4/module_1/programming_assignment_1/solution.go)
 * [The Bellman-Ford Algorithm (Python)](course_4/module_1/examples/bellman_ford.py)
 * [The Bellman-Ford Algorithm (Golang)](course_4/module_1/examples/bellman_ford.go)
 * [The Floyd-Warshall Algorithm (Python)](course_4/module_1/examples/floyd_warshall.py)
@@ -394,6 +398,16 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── optimal_binary_search_tree.py
 ├── course_4/
 │   ├── module_1/
+│   │   ├── problem_set_1/
+│   │   │   ├── questions_answers.png
+│   │   ├── programming_assignment_1/
+│   │   │   ├── g1.txt
+│   │   │   ├── g2.txt
+│   │   │   ├── g3.txt
+│   │   │   ├── large.txt
+│   │   │   ├── solution.go
+│   │   │   ├── solution.py
+│   │   │   ├── task.png
 │   │   ├── examples/
 │   │   │   ├── bellman_ford.go
 │   │   │   ├── bellman_ford.py
