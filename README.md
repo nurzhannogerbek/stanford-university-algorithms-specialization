@@ -219,6 +219,13 @@ Module 3:
 
 Module 4:
 
+* [Problem Set (Questions)](course_4/module_4/problem_set_4/questions.png)
+* [Problem Set (Answers)](course_4/module_4/problem_set_4/answers.png)
+* [Programming Assignment Task](course_4/module_4/programming_assignment_4/task.png)
+* [Programming Assignment (Python)](course_4/module_4/programming_assignment_4/solution.py)
+* [Programming Assignment (Golang)](course_4/module_4/programming_assignment_4/solution.go)
+* [Final Exam (Questions)](course_4/module_4/final_exam/questions.png)
+* [Final Exam (Answers)](course_4/module_4/final_exam/answers.png)
 * [The Maximum Cut Problem (Python)](course_4/module_4/examples/maximum_cut.py)
 * [The Maximum Cut Problem (Golang)](course_4/module_4/examples/maximum_cut.go)
 * [The 2-SAT Problem (Python)](course_4/module_4/examples/two_sat.py)
@@ -473,6 +480,22 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── greedy_knapsack_heuristic.go
 │   │   │   ├── greedy_knapsack_heuristic.py
 │   ├── module_4/
+│   │   ├── problem_set_4/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
+│   │   ├── programming_assignment_4/
+│   │   │   ├── 2sat1.txt
+│   │   │   ├── 2sat2.txt
+│   │   │   ├── 2sat3.txt
+│   │   │   ├── 2sat4.txt
+│   │   │   ├── 2sat5.txt
+│   │   │   ├── 2sat6.txt
+│   │   │   ├── solution.go
+│   │   │   ├── solution.py
+│   │   │   ├── task.png
+│   │   ├── final_exam/
+│   │   │   ├── answers.png
+│   │   │   ├── questions.png
 │   │   ├── examples/
 │   │   │   ├── maximum_cut.go
 │   │   │   ├── maximum_cut.py
