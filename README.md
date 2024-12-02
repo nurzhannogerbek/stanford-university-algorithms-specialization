@@ -214,8 +214,17 @@ Module 3:
 * [Programming Assignment Task](course_4/module_3/programming_assignment_3/task.png)
 * [Programming Assignment (Python)](course_4/module_3/programming_assignment_3/solution.py)
 * [Programming Assignment (Golang)](course_4/module_3/programming_assignment_3/solution.go)
-* [A Greedy Knapsack Heuristic (Python)]()
-* [A Greedy Knapsack Heuristic (Golang)]()
+* [A Greedy Knapsack Heuristic (Python)](course_4/module_3/examples/greedy_knapsack_heuristic.py)
+* [A Greedy Knapsack Heuristic (Golang)](course_4/module_3/examples/greedy_knapsack_heuristic.go)
+
+Module 4:
+
+* [The Maximum Cut Problem (Python)](course_4/module_4/examples/maximum_cut.py)
+* [The Maximum Cut Problem (Golang)](course_4/module_4/examples/maximum_cut.go)
+* [The 2-SAT Problem (Python)](course_4/module_4/examples/two_sat.py)
+* [The 2-SAT Problem (Golang)](course_4/module_4/examples/two_sat.go)
+* [Papadimitriou's Algorithm (Python)](course_4/module_4/examples/papadimitriou.py)
+* [Papadimitriou's Algorithm (Golang)](course_4/module_4/examples/papadimitriou.go)
 
 ## Project Structure
 
@@ -463,6 +472,14 @@ stanford-university-algorithms-specialization/
 │   │   ├── examples/
 │   │   │   ├── greedy_knapsack_heuristic.go
 │   │   │   ├── greedy_knapsack_heuristic.py
+│   ├── module_4/
+│   │   ├── examples/
+│   │   │   ├── maximum_cut.go
+│   │   │   ├── maximum_cut.py
+│   │   │   ├── papadimitriou.go
+│   │   │   ├── papadimitriou.py
+│   │   │   ├── two_sat.go
+│   │   │   ├── two_sat.py
 ├── LICENSE
 └── README.md
 ```
