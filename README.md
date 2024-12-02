@@ -156,7 +156,7 @@ Module 3:
 * [Problem Set (Answers)](course_3/module_3/problem_set_3/answers.png)
 * [Programming Assignment Tasks](course_3/module_3/programming_assignment_3/tasks.png)
 * [Programming Assignment 1 & 2 (Python)](course_3/module_3/programming_assignment_3/solution_1&2.py)
-* [Programming Assignment 1 &2 (Golang)](course_3/module_3/programming_assignment_3/solution_1&2.go)
+* [Programming Assignment 1 & 2 (Golang)](course_3/module_3/programming_assignment_3/solution_1&2.go)
 * [Programming Assignment 3 (Python)](course_3/module_3/programming_assignment_3/solution_3.py)
 * [Programming Assignment 3 (Golang)](course_3/module_3/programming_assignment_3/solution_3.go)
 * [Huffman Coding (Python)](course_3/module_3/examples/huffman.py)
@@ -194,6 +194,13 @@ Module 1:
 * [The Floyd-Warshall Algorithm (Golang)](course_4/module_1/examples/floyd_warshall.go)
 * [Johnson's Algorithm (Python)](course_4/module_1/examples/johnson.py)
 * [Johnson's Algorithm (Golang)](course_4/module_1/examples/johnson.go)
+
+Module 2:
+
+* [The Vertex Cover Problem (Python)](course_4/module_2/examples/vertex_cover.py)
+* [The Vertex Cover Problem (Golang)](course_4/module_2/examples/vertex_cover.go)
+* [The Traveling Salesman Problem (Python)](course_4/module_2/examples/traveling_salesman.py)
+* [The Traveling Salesman Problem (Golang)](course_4/module_2/examples/traveling_salesman.go)
 
 ## Project Structure
 
@@ -415,6 +422,12 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── floyd_warshall.py
 │   │   │   ├── johnson.go
 │   │   │   ├── johnson.py
+│   ├── module_2/
+│   │   ├── examples/
+│   │   │   ├── traveling_salesman.go
+│   │   │   ├── traveling_salesman.py
+│   │   │   ├── vertex_cover.go
+│   │   │   ├── vertex_cover.py
 ├── LICENSE
 └── README.md
 ```
