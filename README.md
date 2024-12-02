@@ -207,6 +207,16 @@ Module 2:
 * [The Traveling Salesman Problem (Python)](course_4/module_2/examples/traveling_salesman.py)
 * [The Traveling Salesman Problem (Golang)](course_4/module_2/examples/traveling_salesman.go)
 
+Module 3:
+
+* [Problem Set (Questions)](course_4/module_3/problem_set_3/questions.png)
+* [Problem Set (Answers)](course_4/module_3/problem_set_3/answers.png)
+* [Programming Assignment Task](course_4/module_3/programming_assignment_3/task.png)
+* [Programming Assignment (Python)](course_4/module_3/programming_assignment_3/solution.py)
+* [Programming Assignment (Golang)](course_4/module_3/programming_assignment_3/solution.go)
+* [A Greedy Knapsack Heuristic (Python)]()
+* [A Greedy Knapsack Heuristic (Golang)]()
+
 ## Project Structure
 
 ```
@@ -441,6 +451,18 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── traveling_salesman.py
 │   │   │   ├── vertex_cover.go
 │   │   │   ├── vertex_cover.py
+│   ├── module_3/
+│   │   ├── problem_set_3/
+│   │   │   ├── questions.png
+│   │   │   ├── answers.png
+│   │   ├── programming_assignment_3/
+│   │   │   ├── nn.txt
+│   │   │   ├── solution.go
+│   │   │   ├── solution.py
+│   │   │   ├── task.png
+│   │   ├── examples/
+│   │   │   ├── greedy_knapsack_heuristic.go
+│   │   │   ├── greedy_knapsack_heuristic.py
 ├── LICENSE
 └── README.md
 ```
