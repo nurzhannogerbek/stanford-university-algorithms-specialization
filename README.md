@@ -197,6 +197,11 @@ Module 1:
 
 Module 2:
 
+* [Problem Set (Questions)](course_4/module_2/problem_set_2/questions.png)
+* [Problem Set (Answers)](course_4/module_2/problem_set_2/answers.png)
+* [Programming Assignment Task](course_4/module_2/programming_assignment_2/task.png)
+* [Programming Assignment (Python)](course_4/module_2/programming_assignment_2/solution.py)
+* [Programming Assignment (Golang)](course_4/module_2/programming_assignment_2/solution.go)
 * [The Vertex Cover Problem (Python)](course_4/module_2/examples/vertex_cover.py)
 * [The Vertex Cover Problem (Golang)](course_4/module_2/examples/vertex_cover.go)
 * [The Traveling Salesman Problem (Python)](course_4/module_2/examples/traveling_salesman.py)
@@ -423,6 +428,14 @@ stanford-university-algorithms-specialization/
 │   │   │   ├── johnson.go
 │   │   │   ├── johnson.py
 │   ├── module_2/
+│   │   ├── problem_set_2/
+│   │   │   ├── questions.png
+│   │   │   ├── answers.png
+│   │   ├── programming_assignment_2/
+│   │   │   ├── solution.go
+│   │   │   ├── solution.py
+│   │   │   ├── task.png
+│   │   │   ├── tsp.txt
 │   │   ├── examples/
 │   │   │   ├── traveling_salesman.go
 │   │   │   ├── traveling_salesman.py
